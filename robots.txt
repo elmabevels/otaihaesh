@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aidediituf.bizorke.com/sitemap.xml
